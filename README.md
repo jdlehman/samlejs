@@ -1,3 +1,7 @@
+[![npm version](https://badge.fury.io/js/samplejs.svg)](http://badge.fury.io/js/samplejs)
+[![Build Status](https://secure.travis-ci.org/jdlehman/samplejs.svg?branch=master)](http://travis-ci.org/jdlehman/samplejs)
+[![Dependency Status](https://david-dm.org/jdlehman/samplejs.svg)](https://david-dm.org/jdlehman/samplejs)
+
 # samplejs
 
 `samplejs` can randomly sample elements from an array as well as keys of an object (where the value of the key is the weight).
