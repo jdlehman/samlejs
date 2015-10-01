@@ -1,6 +1,6 @@
 function totalWeight(collection) {
-  return Object.values(collection).reduce((sum, val) => {
-    return sum + val;
+  return Object.keys(collection).reduce((sum, key) => {
+    return sum + collection[key];
   }, 0);
 }
 
